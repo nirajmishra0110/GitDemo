@@ -1,0 +1,11 @@
+"DataArrayToJSON" : [{
+          "Name" : "Niraj"
+          "Passion" : "Study"
+          "Kid" : "Nikush"
+},
+{ "CurrentNode" : "Omnistudio"}],
+
+
+%DataArrayToJSON|1:Kid%
+
+
